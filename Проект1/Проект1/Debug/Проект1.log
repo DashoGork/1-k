@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\blackjack\documents\visual studio 2015\projects\проект1\проект1\source.cpp(22): warning C4554: &: проверьте порядок применения операторов на наличие ошибки; для четкого задания порядка используйте скобки
+c:\users\blackjack\documents\visual studio 2015\projects\проект1\проект1\source.cpp(13): warning C4101: c: неиспользованная локальная переменная
+  Проект1.vcxproj -> C:\Users\BlackJack\Documents\Visual Studio 2015\Projects\Проект1\Debug\Проект1.exe
+  Проект1.vcxproj -> C:\Users\BlackJack\Documents\Visual Studio 2015\Projects\Проект1\Debug\Проект1.pdb (Partial PDB)
